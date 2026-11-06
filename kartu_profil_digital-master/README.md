@@ -2,6 +2,12 @@
 
 Aplikasi Flutter untuk membuat dan mengelola kartu profil digital.
 
+## Fitur
+
+- Membuat kartu profil digital
+- Menyimpan informasi profil secara lokal
+- Tampilan yang responsive dan modern
+
 ## Instalasi
 
 1. Clone repository ini
