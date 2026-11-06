@@ -1,6 +1,6 @@
-# kartu_profil_digital
+# Kartu Profil Digital
 
-A new Flutter project.
+Aplikasi Flutter untuk membuat dan mengelola kartu profil digital.
 
 ## Getting Started
 
