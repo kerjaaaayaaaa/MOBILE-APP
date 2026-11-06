@@ -2,6 +2,12 @@
 
 Aplikasi Flutter untuk membuat dan mengelola kartu profil digital.
 
+## Instalasi
+
+1. Clone repository ini
+2. Jalankan `flutter pub get` untuk menginstall dependencies
+3. Jalankan `flutter run` untuk menjalankan aplikasi
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
